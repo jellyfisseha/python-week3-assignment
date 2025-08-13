@@ -8,5 +8,4 @@ def calculate_discount(price, discount_percent):
 # Example usage
 print(calculate_discount(2500, 10))  # 2500.0 (no discount)
 print(calculate_discount(2500, 20))  # 2000.0 (20% discount)
-print(calculate_discount(2500, 30))  # 2000.0 (20% discount)
-print(calculate_discount(1500, 15))  # 1500.0 (no discount)
+
